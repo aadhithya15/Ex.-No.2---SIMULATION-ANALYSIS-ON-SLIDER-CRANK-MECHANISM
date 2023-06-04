@@ -44,7 +44,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![output](ex2.png)
+![ex2](https://github.com/aadhithya15/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/121165812/a3e5af65-f8d4-4953-8e51-2ab6502b81b7)
 
 ### Name: Yogeshvar.M
 ### Register Number: 212222230180
